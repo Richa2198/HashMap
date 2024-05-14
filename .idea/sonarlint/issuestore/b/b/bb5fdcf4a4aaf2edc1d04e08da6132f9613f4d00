@@ -1,0 +1,30 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "geeks" 3 times.(Α£™8μ©ωρΖ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΌΈεÒÿÿÿÿÿ8μ©ωρΖ1
+r
+java:S36559"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ήπ‚Δϊÿÿÿÿ8•ªωρΖ1
+m
+java:S3655C"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Μχ8•ªωρΖ1
+l
+java:S3655H"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Κ—Λ^8•ªωρΖ1
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(·ρδ8•ªωρΖ1
+L	java:S106"+Replace this use of System.out by a logger.(ΐ©Ξ£ÿÿÿÿÿ8οªωρΖ1
+F	java:S106""+Replace this use of System.out by a logger.(™ΐ8φªωρΖ1
+o
+java:S6204+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8φªωρΖ1
+G	java:S106,"+Replace this use of System.out by a logger.(«σώ8ÿªωρΖ1
+G	java:S1066"+Replace this use of System.out by a logger.(†•ΣΣ8…«ωρΖ1
+G	java:S106@"+Replace this use of System.out by a logger.(Ξ’ΫΪ8“«ωρΖ1
+G	java:S106D"+Replace this use of System.out by a logger.(£ΓΑΩ8Ά«ωρΖ1
+L	java:S106I"+Replace this use of System.out by a logger.(ΌχΘυώÿÿÿÿ8««ωρΖ1
+o
+java:S6204L"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(’ς£‚8·«ωρΖ1
+G	java:S106M"+Replace this use of System.out by a logger.(ώυ‘›8Ή«ωρΖ1
+G	java:S106S"+Replace this use of System.out by a logger.(—„”‚8»«ωρΖ1
+o
+java:S6204W"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ψ°ηΞ8»«ωρΖ1
+L	java:S106X"+Replace this use of System.out by a logger.(άƒ΅ύÿÿÿÿ8»«ωρΖ1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(σχ”8Δ«ωρΖ1

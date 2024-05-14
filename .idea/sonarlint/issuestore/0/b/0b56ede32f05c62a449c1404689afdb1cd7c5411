@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï‡·
+}
+java:S6206"bRefactor this class declaration to use 'record ImmutableClass(int id, String name, Map<...> map)'.(û®™îşÿÿÿÿ
+L
+java:S1612"6Replace this lambda with method reference 'temp::put'.(¤ñƒÁ
+L
+java:S1612"6Replace this lambda with method reference 'temp::put'.(â¹î

@@ -1,0 +1,13 @@
+
+R
+java:S4973#"<Strings and Boxed types should be compared using "equals()".(’ß
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+p
+java:S4276"ZRefactor this code to use the more specialised Functional Interface 'BinaryOperator<List>'(¶ù™î
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¶åÕ¦
+@	java:S106"+Replace this use of System.out by a logger.(ñ®ñã
+@	java:S106"+Replace this use of System.out by a logger.(µˆœÑ
+@	java:S106"+Replace this use of System.out by a logger.(þÆÈû
+@	java:S106$"+Replace this use of System.out by a logger.(’®¥¾
+@	java:S106'"+Replace this use of System.out by a logger.(¤šª¡

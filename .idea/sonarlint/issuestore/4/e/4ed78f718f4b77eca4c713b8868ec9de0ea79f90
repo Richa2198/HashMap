@@ -1,0 +1,70 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îİ—äşÿÿÿÿ
+o
+java:S1192"TDefine a constant instead of duplicating this literal "Sales And Marketing" 3 times.(ÌßÃíüÿÿÿÿ
+e
+java:S1192"ODefine a constant instead of duplicating this literal "Infrastructure" 3 times.(ç¬¯
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 5 times.(“•äş
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Gurgaon" 3 times.(ÖÌÇåüÿÿÿÿ
+j
+java:S1192"TDefine a constant instead of duplicating this literal "Product Development" 6 times.(áÊß€
+W
+java:S4973X"<Strings and Boxed types should be compared using "equals()".(ª¤õÆüÿÿÿÿ
+W
+java:S4973X"<Strings and Boxed types should be compared using "equals()".(ª¤õÆüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+k
+java:S3655X"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ª¤õÆüÿÿÿÿ
+f
+java:S3655F"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ŒÒ®
+l
+java:S3655ˆ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ô–‚ÿúÿÿÿÿ
+k
+java:S3655-"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ˆÖĞİşÿÿÿÿ
+k
+java:S3655I"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÄÉŒùÿÿÿÿ
+k
+java:S36550"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ì¨‘°ÿÿÿÿÿ
+k
+java:S3655M"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(í·œºùÿÿÿÿ
+Q
+java:S1854
+"6Remove this useless assignment to local variable "es".(Í²âüÿÿÿÿ
+B
+java:S1481
+"'Remove this unused "es" local variable.(Í²âüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(åÔÙ
+@	java:S106."+Replace this use of System.out by a logger.(Ø²ßã
+E	java:S1061"+Replace this use of System.out by a logger.(şµâÔøÿÿÿÿ
+[
+java:S16123"@Replace this lambda with method reference 'Employee::getCities'.(Å……Ùÿÿÿÿÿ
+E	java:S1064"+Replace this use of System.out by a logger.(Ì‚Îîøÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(è«ù½şÿÿÿÿ
+E	java:S106;"+Replace this use of System.out by a logger.(À©Î£ÿÿÿÿÿ
+h
+java:S6204>"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(÷ù›È
+E	java:S106?"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+@	java:S106C"+Replace this use of System.out by a logger.(µˆœÑ
+@	java:S106G"+Replace this use of System.out by a logger.(«‹Îõ
+E	java:S106J"+Replace this use of System.out by a logger.(„Ê›ıÿÿÿÿ
+E	java:S106N"+Replace this use of System.out by a logger.(Ôá•äøÿÿÿÿ
+h
+java:S6204Q"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‹³ÒŒ
+@	java:S106R"+Replace this use of System.out by a logger.(şõ‘›
+@	java:S106V"+Replace this use of System.out by a logger.(ÉËíä
+@	java:S106Y"+Replace this use of System.out by a logger.(¼¡¨ò
+V	java:S125["<This block of commented-out lines of code should be removed.(°†Ø‰ıÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(ó»¡ªıÿÿÿÿ
+R
+java:S1612f"<Replace this lambda with method reference 'Employee::getId'.(ùĞ†É
+@	java:S106g"+Replace this use of System.out by a logger.(Óú„•
+[
+java:S1612i"@Replace this lambda with method reference 'Employee::getCities'.(Ó¯Ãıøÿÿÿÿ
+E	java:S106j"+Replace this use of System.out by a logger.(Ì‚Îîøÿÿÿÿ
+@	java:S106m"+Replace this use of System.out by a logger.(¢Ûü›
+@	java:S106u"+Replace this use of System.out by a logger.(º±ëÅ
+V	java:S125}"<This block of commented-out lines of code should be removed.(ŠáÆ¢üÿÿÿÿ
+A	java:S106‰"+Replace this use of System.out by a logger.(¼¡¨ò

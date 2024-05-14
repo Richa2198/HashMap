@@ -1,0 +1,21 @@
+
+V
+&HashMap/src/InterfaceConcept/Main.java,d\6\d67ce46b0612de010f9c49ba3758539c4fc3c4c4
+U
+%HashMap/src/implementation/Basic.java,7\9\791080400b509bf8774a39faadc14177145cfc6d
+V
+&HashMap/src/java8/EmployeeService.java,4\e\4ed78f718f4b77eca4c713b8868ec9de0ea79f90
+U
+%HashMap/src/java8/CreateEmployee.java,6\4\64dcda59cba9c6859ac5247b4547ea79e05f081e
+U
+%HashMap/src/java8/BiFuncPredCons.java,e\e\eedeecdf17c809e445b9b67b458dee0957b4b28d
+]
+-HashMap/src/InterfaceConcept/myInterface.java,6\9\69e5070ae428082965e55fca7b95c1ea5d1a9864
+P
+ HashMap/src/java8/Questions.java,b\b\bb5fdcf4a4aaf2edc1d04e08da6132f9613f4d00
+P
+ HashMap/src/java8/MapReduce.java,7\1\71cfa6654a3554b7a3487450bd7bc13fca33b285
+S
+#HashMap/src/java8/GroupAnagram.java,3\0\30f9e51c3a9f021815a2d42034bf4f45c0a782e9
+]
+-HashMap/src/Immutablility/ImmutableClass.java,0\b\0b56ede32f05c62a449c1404689afdb1cd7c5411
